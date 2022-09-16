@@ -49,7 +49,7 @@ def max_marks(list1):
     return max1     
 ```    
 ## output :
-![output](./max3.png)
+![output](max3.png)
 
 
 ## Result:
