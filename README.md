@@ -16,6 +16,10 @@ RegisterNumber: 22003029
 ```
 i)	# To find the maximum of marks using the list method sort.
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 def max_marks(marks):
     marks.sort()
